@@ -38,7 +38,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 8 | Dessiree Cifuentes | … |
 | 9 | Debi Codriansky | https://debic.github.io/clase05/ | 
 | 10 | Erika Contreras | https://erikaemm.github.io/e5/ |
-| 11 | María José Coudeu | … |
+| 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio5/  |
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase5/ |
